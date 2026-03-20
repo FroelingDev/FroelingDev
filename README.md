@@ -1,59 +1,105 @@
-<div align="center">
 
-# Hey, I'm FroelingDev 👋
 
-**Developer · Builder · Problem Solver**
+# Nicolas Alonso Froeling
 
-[![GitHub followers](https://img.shields.io/github/followers/FroelingDev?label=Follow&style=social)](https://github.com/FroelingDev)
+**Founder · Full-Stack Engineer · AI Builder**
 
-</div>
+Based in Lisbon — building products at the intersection of AI, developer tooling, and consumer apps.
 
----
+[GitHub followers](https://github.com/FroelingDev)
 
-### About Me
 
-- Building things I care about, one commit at a time
-- Always learning, always shipping
-- Open to collaborating on interesting projects
 
 ---
 
-### Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
+I run **FroelingDev Solutions**, a consultancy that ships custom web/mobile apps, AI systems, and automation tools — for clients and my own ventures. I take products from 0 → 1 with a focus on performance, design, and real-world usability.
 
 ---
 
-### GitHub Stats
+## What I'm Building
 
-<div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=FroelingDev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FroelingDev&layout=compact&theme=github_dark&hide_border=true" />
+| Project                       | Description                                                                     |
+| ----------------------------- | ------------------------------------------------------------------------------- |
+| **Fluos**                     | AI-powered motion & video generation — Remotion, AI agents, sandboxed execution  |
+| **ETG · Elite Training Golf** | Golf training + analytics platform with performance tracking                     |
+| **mrktplc**                   | Mobile marketplace app — buy, sell, and discover, built with Expo and Supabase   |
+| **!Organize**                 | AI-powered calendar and productivity assistant                                   |
+| **Worldwide & Friends**       | Social + travel platform for connecting through experiences                      |
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=FroelingDev&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
-<div align="center">
+## What I Do
 
-*"First, solve the problem. Then, write the code."*
+- Design and ship full-stack products — web, mobile, and backend
+- Build AI-native apps: agent systems, LLM pipelines, generative media
+- Architect real-time systems, sandbox environments, and automation workflows
+- Consult with startups and businesses on custom software and AI integration
 
-</div>
-# FroelingDev
+---
+
+## Tech Stack
+
+**Frontend** — `Next.js` `React` `TypeScript` `Expo (React Native)`
+
+**Backend** — `Node.js` `Flask` `Django` `Supabase (Postgres + RLS)`
+
+**AI & Agents** — `OpenAI APIs` `Vercel AI SDK` `Agent Systems` `Remotion`
+
+**Infrastructure** — `Vercel` `Docker` `Cloud Functions` `Sandbox Environments`
+
+**Payments & Maps** — `Stripe` `Mapbox`
+
+---
+
+## Featured Projects
+
+### Fluos
+
+AI-powered video and motion generation platform. Combines Remotion for programmatic video, AI agents for content generation, and isolated sandbox execution for safe, scalable rendering. Built for creators and developers who need generative media at scale.
+
+### ETG · Elite Training Golf
+
+A full training and analytics platform for golfers. Tracks performance over time, provides structured training programs, and surfaces data-driven insights — designed for serious amateurs and coaches who want measurable improvement.
+
+### mrktplc
+
+A mobile marketplace app for buying, selling, and discovering items. Built with Expo (React Native), Supabase backend, and Redux — featuring real-time inbox, search, and seller flows designed for a smooth native experience.
+
+### !Organize
+
+An AI calendar assistant that understands context. Schedules intelligently, surfaces priorities, and reduces the cognitive overhead of managing time across multiple projects and roles.
+
+---
+
+## How I Think About Building
+
+I care about shipping — not fast for its own sake, but shipping things that work and that people use. Every project I take on lives at the intersection of a real problem, a viable business, and an experience worth having.
+
+I prefer systems that are simple until they need to be complex, UIs that get out of the way, and codebases that can move fast without breaking. Design and engineering aren't separate disciplines — good software feels considered at every layer.
+
+---
+
+## GitHub Stats
+
+
+
+
+
+
+
+---
+
+## Get in Touch
+
+- GitHub: [@FroelingDev](https://github.com/FroelingDev)
+- LinkedIn: *(coming soon)*
+- Website: *(coming soon)*
+
+---
+
+
+
+Open to interesting projects, technical partnerships, and conversations worth having.
+
