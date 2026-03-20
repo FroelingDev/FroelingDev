@@ -1,105 +1,82 @@
 
 
-# Nicolas Alonso Froeling
+# Hey, I'm FroelingDev 👋
 
-**Founder · Full-Stack Engineer · AI Builder**
+**Entrepreneur · Builder · Athlete**
 
-Based in Lisbon — building products at the intersection of AI, developer tooling, and consumer apps.
-
-[GitHub followers](https://github.com/FroelingDev)
-
-
+[![GitHub followers](https://img.shields.io/github/followers/FroelingDev?label=Follow&style=social)](https://github.com/FroelingDev)
+[![Profile Views](https://komarev.com/ghpvc/?username=FroelingDev&color=blue&style=flat)](https://github.com/FroelingDev)
 
 ---
 
-I run **FroelingDev Solutions**, a consultancy that ships custom web/mobile apps, AI systems, and automation tools — for clients and my own ventures. I take products from 0 → 1 with a focus on performance, design, and real-world usability.
+### About Me
+
+- Founder & full-stack engineer based in Lisbon, building at the intersection of AI, developer tooling, and consumer apps
+- Running **FroelingDev Solutions** — shipping custom web/mobile apps, AI systems, and automation tools for clients and my own ventures
+- Currently building **Fluos** (AI video/motion generation), **ETG** (golf training + analytics), **mrktplc** (mobile marketplace), **!Organize** (AI calendar assistant), and **Worldwide & Friends** (social + travel)
+- Work across the full stack: Next.js, React Native/Expo, Supabase, Node.js, and AI agent systems
+- Take products from 0 → 1 with a focus on performance, design, and real-world usability
 
 ---
 
-## What I'm Building
+### Tech Stack
 
+<div align="center">
 
-| Project                       | Description                                                                     |
-| ----------------------------- | ------------------------------------------------------------------------------- |
-| **Fluos**                     | AI-powered motion & video generation — Remotion, AI agents, sandboxed execution  |
-| **ETG · Elite Training Golf** | Golf training + analytics platform with performance tracking                     |
-| **mrktplc**                   | Mobile marketplace app — buy, sell, and discover, built with Expo and Supabase   |
-| **!Organize**                 | AI-powered calendar and productivity assistant                                   |
-| **Worldwide & Friends**       | Social + travel platform for connecting through experiences                      |
+**Frontend**
 
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
----
+**Backend**
 
-## What I Do
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
-- Design and ship full-stack products — web, mobile, and backend
-- Build AI-native apps: agent systems, LLM pipelines, generative media
-- Architect real-time systems, sandbox environments, and automation workflows
-- Consult with startups and businesses on custom software and AI integration
+**AI & Agents**
 
----
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Remotion-000000?style=for-the-badge&logo=remotion&logoColor=white" />
 
-## Tech Stack
+**Infrastructure & Tools**
 
-**Frontend** — `Next.js` `React` `TypeScript` `Expo (React Native)`
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" />
 
-**Backend** — `Node.js` `Flask` `Django` `Supabase (Postgres + RLS)`
-
-**AI & Agents** — `OpenAI APIs` `Vercel AI SDK` `Agent Systems` `Remotion`
-
-**Infrastructure** — `Vercel` `Docker` `Cloud Functions` `Sandbox Environments`
-
-**Payments & Maps** — `Stripe` `Mapbox`
-
----
-
-## Featured Projects
-
-### Fluos
-
-AI-powered video and motion generation platform. Combines Remotion for programmatic video, AI agents for content generation, and isolated sandbox execution for safe, scalable rendering. Built for creators and developers who need generative media at scale.
-
-### ETG · Elite Training Golf
-
-A full training and analytics platform for golfers. Tracks performance over time, provides structured training programs, and surfaces data-driven insights — designed for serious amateurs and coaches who want measurable improvement.
-
-### mrktplc
-
-A mobile marketplace app for buying, selling, and discovering items. Built with Expo (React Native), Supabase backend, and Redux — featuring real-time inbox, search, and seller flows designed for a smooth native experience.
-
-### !Organize
-
-An AI calendar assistant that understands context. Schedules intelligently, surfaces priorities, and reduces the cognitive overhead of managing time across multiple projects and roles.
+</div>
 
 ---
 
-## How I Think About Building
+### GitHub Stats
 
-I care about shipping — not fast for its own sake, but shipping things that work and that people use. Every project I take on lives at the intersection of a real problem, a viable business, and an experience worth having.
+<div align="center">
 
-I prefer systems that are simple until they need to be complex, UIs that get out of the way, and codebases that can move fast without breaking. Design and engineering aren't separate disciplines — good software feels considered at every layer.
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=FroelingDev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FroelingDev&layout=compact&theme=github_dark&hide_border=true" />
 
----
+</div>
 
-## GitHub Stats
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=FroelingDev&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-
-
-
-
-
----
-
-## Get in Touch
-
-- GitHub: [@FroelingDev](https://github.com/FroelingDev)
-- LinkedIn: *(coming soon)*
-- Website: *(coming soon)*
+</div>
 
 ---
 
+<div align="center">
 
+*"Best way to predict the future, is by building it."*
 
-Open to interesting projects, technical partnerships, and conversations worth having.
-
+</div>
